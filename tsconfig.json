@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "module": "system",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outFile": "./index.js",
+    "sourceMap": true,
+    "inlineSourceMap": false
+  },
+  "compileOnSave": true,
+  "include": [
+    "./*"
+  ],
+  "exclude": [
+  ]
+}
